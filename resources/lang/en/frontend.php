@@ -1,0 +1,36 @@
+<?php
+
+return [
+    'topbar' => [
+        'call' => 'Call:',
+        'email' => 'Email:',
+        'facebook' => 'Facebook',
+        'linkedin' => 'LinkedIn',
+        'youtube' => 'YouTube',
+        'lang_bn' => 'বাংলা',
+        'lang_en' => 'English',
+    ],
+    'nav' => [
+        'home' => 'Home',
+        'about' => 'About',
+        'about_glance' => 'At a Glance',
+        'about_history' => 'History',
+        'about_vision' => 'Vision & Mission',
+        'administration' => 'Administration',
+        'admin_president' => 'President',
+        'admin_headmaster' => 'Headmaster',
+        'admin_teachers' => 'Teachers',
+        'admin_adhocs' => 'Adhocs',
+        'admin_staffs' => 'Staffs',
+        'academics' => 'Academics',
+        'academics_admission' => 'Admission',
+        'academics_students' => 'Students',
+        'academics_results' => 'Results',
+        'information' => 'Information',
+        'info_notices' => 'Notices',
+        'info_news' => 'News',
+        'info_events' => 'Events',
+        'contact' => 'Contact',
+        'menu' => 'Menu',
+    ],
+];

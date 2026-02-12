@@ -1,0 +1,36 @@
+<?php
+
+return [
+    'topbar' => [
+        'call' => 'কল করুন:',
+        'email' => 'ইমেইল:',
+        'facebook' => 'ফেসবুক',
+        'linkedin' => 'লিংকডইন',
+        'youtube' => 'ইউটিউব',
+        'lang_bn' => 'বাংলা',
+        'lang_en' => 'English',
+    ],
+    'nav' => [
+        'home' => 'হোম',
+        'about' => 'পরিচিতি',
+        'about_glance' => 'এক নজরে',
+        'about_history' => 'ইতিহাস',
+        'about_vision' => 'ভিশন ও মিশন',
+        'administration' => 'প্রশাসন',
+        'admin_president' => 'সভাপতি',
+        'admin_headmaster' => 'প্রধান শিক্ষক',
+        'admin_teachers' => 'শিক্ষকবৃন্দ',
+        'admin_adhocs' => 'অ্যাডহক',
+        'admin_staffs' => 'স্টাফ',
+        'academics' => 'একাডেমিক',
+        'academics_admission' => 'ভর্তি',
+        'academics_students' => 'শিক্ষার্থী',
+        'academics_results' => 'ফলাফল',
+        'information' => 'তথ্য',
+        'info_notices' => 'নোটিশ',
+        'info_news' => 'সংবাদ',
+        'info_events' => 'ইভেন্ট',
+        'contact' => 'যোগাযোগ',
+        'menu' => 'মেনু',
+    ],
+];
